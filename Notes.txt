@@ -1,0 +1,23 @@
+Created react app with typescript
+
+#command
+npx create-react-app client template --typescript
+
+installed dependencies
+npm i react-router-dom axios react-hook-form react-cookies
+
+installed react material ui
+#command
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+
+installed redux toolkit
+#command
+npm i @reduxjs/toolkit react-redux
+
+
+todos
+1. create google web API
+2. create login functionality
+3. set and get cookies
+4. create admin routers
+5. register user in signup and throw popup using mui
